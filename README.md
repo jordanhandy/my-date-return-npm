@@ -8,6 +8,6 @@ The functions in this package take no arguments.
 var myDateReturn = require("my-date-return");
 ``` 
 ### Calling
-myDateReturn.getFullDate(); - returns full date with day, month and year
+myDateReturn.getFullDate(); - returns full date with day, month and year\
 myDateReturn.getDay(); - returns simply the day of the week
 
