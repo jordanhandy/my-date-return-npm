@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "Returns the date, given params.  This module is for tesing the creation process of npm modules",
   "main": "my-date-return.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jordanhandy/my-date-return-npm.git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@jordanhandy"},
   "keywords": [
     "date-return",
     "date-tester",
